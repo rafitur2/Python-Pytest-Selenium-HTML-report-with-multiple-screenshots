@@ -4,3 +4,10 @@ Using Pytest to generate an HTML report and attach multiple screenshots to the r
 
 
 ### Installation
+
+```sh
+$ pip install pytest-html
+
+```
+
+ScreenShots
