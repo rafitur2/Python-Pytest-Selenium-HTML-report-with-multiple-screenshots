@@ -1,0 +1,5 @@
+{
+  "Test_Runner.py::TestBrowser::()::test_facebook": true,
+  "Test_Runner.py::TestBrowser::()::test_google": true,
+  "Test_Runner.py::TestBrowser::()::test_teach": true
+}
