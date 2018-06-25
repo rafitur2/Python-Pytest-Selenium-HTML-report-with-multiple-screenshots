@@ -1,2 +1,2 @@
 # Python-Pytest-HTML-report-with-multiple-screenshots
-In this project I'm 
+Using Pytest, generate HTML report and attach multiple screenshots to the reoprt
