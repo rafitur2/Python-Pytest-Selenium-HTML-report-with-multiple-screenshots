@@ -39,6 +39,7 @@ def _capture_screenshot(name):
     driver.get_screenshot_as_file(name)
 
 
+
 @pytest.fixture(scope='session', autouse=True)
 def browser():
     global driver
