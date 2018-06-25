@@ -1,5 +1,6 @@
 # Python Pytest HTML report with multiple screenshots
-Using Pytest to generate an HTML report and attach multiple screenshots to the report
+Create test cases by using Pytest to test webpages via selenium and generate a nice HTML report with screenshots
+
 
 
 
