@@ -12,5 +12,10 @@ $ pip install pytest-html
 
 ### ScreenShots
 
-![image](https://user-images.githubusercontent.com/35892616/41856556-0e1a582e-789e-11e8-86d2-435bae1f9c19.png)
+![image](https://user-images.githubusercontent.com/35892616/41856807-a952c1f0-789e-11e8-8a99-f1478141457f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/35892616/41856814-acd5dede-789e-11e8-9b77-5dc229c7dc4f.png)
+
 
