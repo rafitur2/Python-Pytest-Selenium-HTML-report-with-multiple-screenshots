@@ -9,7 +9,7 @@ Create test cases by using Pytest to test webpages via selenium and generate a n
 ```sh
 $ pip install pytest
 $ pip install pytest-html
-
+$ pip install selenium
 ```
 
 ### How to Run
