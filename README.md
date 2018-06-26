@@ -4,7 +4,7 @@ Create test cases by using Pytest to test webpages via selenium and generate a n
 
 ### Prerequisite
 Download the chromdriver execution file and save it in the scripts folder:
-http://chromedriver.chromium.org/
+http://chromedriver.chromium.org/           
 C:\Python36-32\Scripts
 
 ### Installation
